@@ -94,6 +94,11 @@ const source = [
         name:'nbcnews',
         address:'https://www.nbcnews.com',
         base:''
+    },
+    {
+        name:'washingtonpost',
+        address:'https://www.washingtonpost.com/business/',
+        base:''
     }
 ]
 const articles = [];
